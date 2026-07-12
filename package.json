@@ -1,4 +1,7 @@
 {
+"scripts":{
+  "start" : "node server.js"
+}
   "name": "mongo2",
   "version": "1.0.0",
   "description": "",
